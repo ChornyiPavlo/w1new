@@ -706,7 +706,7 @@ if(mail($to, $subject, $message, $headers)) {
                 </ul>
               </div>
               <div class="copyright-text">
-                <p>&#169; 2003 Lucky Links Social</p>
+                <p>&#169; 2024 Lucky Links Social</p>
               </div>
             </div>
           </div>

@@ -712,7 +712,7 @@ We're thrilled to count you among us! Brace for a trove of engaging and benefici
                 </ul>
               </div>
               <div class="copyright-text">
-                <p>&#169; 2003 Lucky Links Social</p>
+                <p>&#169; 2024 Lucky Links Social</p>
               </div>
             </div>
           </div>
